@@ -1,9 +1,9 @@
-# Login-logout-and-contact-us-web-page
-Here I am created web pages in which we create login page, log out page, and contact us page using HTML, CSS, PHP, SQL Database. First we open Login page where we have to login our username and password if it is correct then we revert to contact us page after submit our query it again revert to logout page.
 Name:- Rakesh Kumar
 File:- Readme.md
 Carorzo Pvt Ltd. Web Page
-I have created a login webpage, logout webpage, and contact us web page using PHP, HTML, CSS, MYSQL Database.
+# Login-logout-and-contact-us-web-page
+Here I am created web pages in which we create login page, log out page, and contact us page using HTML, CSS, PHP, SQL Database. First we open Login page where we have to login our username and password if it is correct then we revert to contact us page after submit our query it again revert to logout page.
+
 
 ##Appendix
 Any additional information goes here
